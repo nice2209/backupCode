@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .flex-container {
+            display: flex;
+        }
+
+        div{
+            border: 1px solid #ccc;
+        }
+        #items-1 {
+            flex-grow: 3;
+        }
+
+        #items-2 {
+            flex-grow: 1;
+        }
+
+        #items-3 {
+            flex-grow: 1;
+        }
+    </style>
+</head>
+<body>
+    <!-- flex-grow는 3 : 1 : 1이라는 비율로 하는것이다 평등하게 가져가는 것 -->
+    <div class="flex-container">
+        <div id="items-1">div1</div>
+        <div id="items-2">div2</div>
+        <div id="items-3">div3</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-triangle2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-triangle4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-triangle3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-infintie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-infintie.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-comma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-comma.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-nest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-nest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-rect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-rect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-twcontrol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-twcontrol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-triangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-ruler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955CC467-5146-434C-8CED-A3CF9E17C8F9}|20240316\\20240316.vcxproj|solutionrelative:20240316\\b-ruler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "b-ruler.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-ruler.c",
+              "RelativeDocumentMoniker": "20240316\\b-ruler.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-ruler.c",
+              "RelativeToolTip": "20240316\\b-ruler.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T15:06:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b-triangle4.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle4.c",
+              "RelativeDocumentMoniker": "20240316\\b-triangle4.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle4.c",
+              "RelativeToolTip": "20240316\\b-triangle4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T15:00:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b-triangle3.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle3.c",
+              "RelativeDocumentMoniker": "20240316\\b-triangle3.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle3.c",
+              "RelativeToolTip": "20240316\\b-triangle3.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:53:53.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "b-triangle2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle2.c",
+              "RelativeDocumentMoniker": "20240316\\b-triangle2.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle2.c",
+              "RelativeToolTip": "20240316\\b-triangle2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:51:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "b-triangle.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle.c",
+              "RelativeDocumentMoniker": "20240316\\b-triangle.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-triangle.c",
+              "RelativeToolTip": "20240316\\b-triangle.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:50:00.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "b-rect.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-rect.c",
+              "RelativeDocumentMoniker": "20240316\\b-rect.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-rect.c",
+              "RelativeToolTip": "20240316\\b-rect.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:48:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "b-nest.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-nest.c",
+              "RelativeDocumentMoniker": "20240316\\b-nest.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-nest.c",
+              "RelativeToolTip": "20240316\\b-nest.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:45:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b-infintie.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-infintie.c",
+              "RelativeDocumentMoniker": "20240316\\b-infintie.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-infintie.c",
+              "RelativeToolTip": "20240316\\b-infintie.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:39:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "b-twcontrol.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-twcontrol.c",
+              "RelativeDocumentMoniker": "20240316\\b-twcontrol.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-twcontrol.c",
+              "RelativeToolTip": "20240316\\b-twcontrol.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:36:50.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "b-comma.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-comma.c",
+              "RelativeDocumentMoniker": "20240316\\b-comma.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240316\\20240316\\b-comma.c",
+              "RelativeToolTip": "20240316\\b-comma.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-16T14:34:05.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

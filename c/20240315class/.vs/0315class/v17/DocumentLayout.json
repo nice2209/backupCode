@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\0315class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4F8447-EA94-4DA0-8430-A3FE2FF99E45}|0315class\\0315class.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\0315class\\0315class\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF4F8447-EA94-4DA0-8430-A3FE2FF99E45}|0315class\\0315class.vcxproj|solutionrelative:0315class\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\0315class\\0315class\\main.c",
+              "RelativeDocumentMoniker": "0315class\\main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\0315class\\0315class\\main.c",
+              "RelativeToolTip": "0315class\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-15T02:57:22.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

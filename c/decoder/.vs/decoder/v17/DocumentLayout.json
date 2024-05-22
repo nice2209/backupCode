@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\decoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE3B36-43BF-4AB5-BDE3-4A2C5B00AAD4}|decoder\\decoder.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\decoder\\decoder\\decoder.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34FE3B36-43BF-4AB5-BDE3-4A2C5B00AAD4}|decoder\\decoder.vcxproj|solutionrelative:decoder\\decoder.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "decoder.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\decoder\\decoder\\decoder.c",
+              "RelativeDocumentMoniker": "decoder\\decoder.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\decoder\\decoder\\decoder.c",
+              "RelativeToolTip": "decoder\\decoder.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-15T02:37:26.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

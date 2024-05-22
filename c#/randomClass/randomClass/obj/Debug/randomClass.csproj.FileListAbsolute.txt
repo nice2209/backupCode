@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c#\randomClass\randomClass\bin\Debug\randomClass.exe.config
+C:\Users\user\Desktop\c#\randomClass\randomClass\bin\Debug\randomClass.exe
+C:\Users\user\Desktop\c#\randomClass\randomClass\bin\Debug\randomClass.pdb
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.Form1.resources
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.Properties.Resources.resources
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.exe
+C:\Users\user\Desktop\c#\randomClass\randomClass\obj\Debug\randomClass.pdb

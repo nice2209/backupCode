@@ -1,0 +1,39 @@
+﻿  test1.c
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\Message.h(3,15): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'test1.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\Message.h(6,9): warning C4013: 'putch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  (소스 파일 'test1.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(25,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(25,12): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'size_t'입니다.
+  C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(45,12):
+  서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\20240318class\test1.c(40,11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  20240318class.vcxproj -> C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\20240318class\x64\Debug\20240318class.exe

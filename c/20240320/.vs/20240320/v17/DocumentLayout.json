@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-strtol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structnest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structnest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structptrarray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structptrarray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structref.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structref.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structret.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structret.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-unicode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-unicode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bitop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-bitop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structarg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structarg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structassign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structassign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-ptrmember.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-ptrmember.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structinit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-structinit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-shuman.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-shuman.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-human.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-human.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bufoverrun.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-bufoverrun.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-memmove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-memmove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-sprintf2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-sprintf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoaradix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-itoaradix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-itoa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strset.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-strset.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-strtok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strstr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-strstr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-findallchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-findallchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strchr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D53D26D-BD48-48D5-B1EE-CD63109C3C38}|20240320\\20240320.vcxproj|solutionrelative:20240320\\b-strchr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 509,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "b-bitop.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bitop.c",
+              "RelativeDocumentMoniker": "20240320\\b-bitop.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bitop.c",
+              "RelativeToolTip": "20240320\\b-bitop.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:57:15.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "b-structnest.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structnest.c",
+              "RelativeDocumentMoniker": "20240320\\b-structnest.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structnest.c",
+              "RelativeToolTip": "20240320\\b-structnest.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:41:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b-structptrarray.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structptrarray.c",
+              "RelativeDocumentMoniker": "20240320\\b-structptrarray.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structptrarray.c",
+              "RelativeToolTip": "20240320\\b-structptrarray.c",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:37:09.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "b-ptrmember.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-ptrmember.c",
+              "RelativeDocumentMoniker": "20240320\\b-ptrmember.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-ptrmember.c",
+              "RelativeToolTip": "20240320\\b-ptrmember.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:34:36.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "b-structinit.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structinit.c",
+              "RelativeDocumentMoniker": "20240320\\b-structinit.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structinit.c",
+              "RelativeToolTip": "20240320\\b-structinit.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:29:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "b-unicode.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-unicode.c",
+              "RelativeDocumentMoniker": "20240320\\b-unicode.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-unicode.c",
+              "RelativeToolTip": "20240320\\b-unicode.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:16:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "b-structret.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structret.c",
+              "RelativeDocumentMoniker": "20240320\\b-structret.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structret.c",
+              "RelativeToolTip": "20240320\\b-structret.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:52:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b-structref.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structref.c",
+              "RelativeDocumentMoniker": "20240320\\b-structref.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structref.c",
+              "RelativeToolTip": "20240320\\b-structref.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:49:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "b-strtol.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtol.c",
+              "RelativeDocumentMoniker": "20240320\\b-strtol.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtol.c",
+              "RelativeToolTip": "20240320\\b-strtol.c",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:58:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "b-structassign.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structassign.c",
+              "RelativeDocumentMoniker": "20240320\\b-structassign.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structassign.c",
+              "RelativeToolTip": "20240320\\b-structassign.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:44:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "b-structarg.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structarg.c",
+              "RelativeDocumentMoniker": "20240320\\b-structarg.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-structarg.c",
+              "RelativeToolTip": "20240320\\b-structarg.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:46:48.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "b-shuman.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-shuman.c",
+              "RelativeDocumentMoniker": "20240320\\b-shuman.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-shuman.c",
+              "RelativeToolTip": "20240320\\b-shuman.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:26:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "b-human.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-human.c",
+              "RelativeDocumentMoniker": "20240320\\b-human.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-human.c",
+              "RelativeToolTip": "20240320\\b-human.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:21:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "b-bufoverrun.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bufoverrun.c",
+              "RelativeDocumentMoniker": "20240320\\b-bufoverrun.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-bufoverrun.c",
+              "RelativeToolTip": "20240320\\b-bufoverrun.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:14:11.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "b-memmove.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-memmove.c",
+              "RelativeDocumentMoniker": "20240320\\b-memmove.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-memmove.c",
+              "RelativeToolTip": "20240320\\b-memmove.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:10:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "b-sprintf2.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf2.c",
+              "RelativeDocumentMoniker": "20240320\\b-sprintf2.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf2.c",
+              "RelativeToolTip": "20240320\\b-sprintf2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:05:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "b-sprintf.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf.c",
+              "RelativeDocumentMoniker": "20240320\\b-sprintf.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-sprintf.c",
+              "RelativeToolTip": "20240320\\b-sprintf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T13:03:33.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "b-itoaradix.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoaradix.c",
+              "RelativeDocumentMoniker": "20240320\\b-itoaradix.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoaradix.c",
+              "RelativeToolTip": "20240320\\b-itoaradix.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:56:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "b-itoa.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoa.c",
+              "RelativeDocumentMoniker": "20240320\\b-itoa.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-itoa.c",
+              "RelativeToolTip": "20240320\\b-itoa.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:54:14.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "b-strset.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strset.c",
+              "RelativeDocumentMoniker": "20240320\\b-strset.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strset.c",
+              "RelativeToolTip": "20240320\\b-strset.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:50:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "b-strtok.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtok.c",
+              "RelativeDocumentMoniker": "20240320\\b-strtok.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strtok.c",
+              "RelativeToolTip": "20240320\\b-strtok.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:47:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "b-strstr.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strstr.c",
+              "RelativeDocumentMoniker": "20240320\\b-strstr.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strstr.c",
+              "RelativeToolTip": "20240320\\b-strstr.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:44:12.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "b-findallchar.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-findallchar.c",
+              "RelativeDocumentMoniker": "20240320\\b-findallchar.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-findallchar.c",
+              "RelativeToolTip": "20240320\\b-findallchar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T12:40:05.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "b-strchr.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strchr.c",
+              "RelativeDocumentMoniker": "20240320\\b-strchr.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240320\\20240320\\b-strchr.c",
+              "RelativeToolTip": "20240320\\b-strchr.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-20T02:25:34.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5BB1FD-C11B-40F0-868C-A586C5C4F496}|20240311\\20240311.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2439.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5BB1FD-C11B-40F0-868C-A586C5C4F496}|20240311\\20240311.vcxproj|solutionrelative:20240311\\bj2439.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5BB1FD-C11B-40F0-868C-A586C5C4F496}|20240311\\20240311.vcxproj|C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5BB1FD-C11B-40F0-868C-A586C5C4F496}|20240311\\20240311.vcxproj|solutionrelative:20240311\\bj2438.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bj2439.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2439.c",
+              "RelativeDocumentMoniker": "20240311\\bj2439.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2439.c",
+              "RelativeToolTip": "20240311\\bj2439.c",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-11T13:45:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bj2438.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2438.c",
+              "RelativeDocumentMoniker": "20240311\\bj2438.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\bd4072abad6b66b7e2059fc01cdccd2e\\20240311\\20240311\\bj2438.c",
+              "RelativeToolTip": "20240311\\bj2438.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-11T01:27:14.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

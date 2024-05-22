@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            /* !important는 모든 종속성이나 규칙을 무지하고 이후에 디버깅을 어렵게 만들기 때문에 안티 패턴으로 취급함 */
+            color: blue !important;
+        }
+        #test-id{
+            color: yellow;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 이 경우 폰트의 색상은 파란색, font의 크기는 40px입니다. -->
+    <div id="test-id" style="font-size: 40px; color: red;">테스트</div>
+</body>
+</html>

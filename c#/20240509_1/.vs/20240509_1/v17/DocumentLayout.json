@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c#\\20240509_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F22847-7C71-40E9-93E1-2C5CE7802D5C}|20240509_1\\20240509_1.csproj|c:\\users\\user\\desktop\\c#\\20240509_1\\20240509_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F22847-7C71-40E9-93E1-2C5CE7802D5C}|20240509_1\\20240509_1.csproj|solutionrelative:20240509_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F22847-7C71-40E9-93E1-2C5CE7802D5C}|20240509_1\\20240509_1.csproj|C:\\Users\\user\\Desktop\\c#\\20240509_1\\20240509_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1F22847-7C71-40E9-93E1-2C5CE7802D5C}|20240509_1\\20240509_1.csproj|solutionrelative:20240509_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 509,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\20240509_1\\20240509_1\\Program.cs",
+              "RelativeDocumentMoniker": "20240509_1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\20240509_1\\20240509_1\\Program.cs",
+              "RelativeToolTip": "20240509_1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:52:35.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c#\\20240509_1\\20240509_1\\Form1.cs",
+              "RelativeDocumentMoniker": "20240509_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c#\\20240509_1\\20240509_1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "20240509_1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:36:21.63Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 225,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

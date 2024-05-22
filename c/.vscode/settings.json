@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "limits": "c",
+        "utility": "c",
+        "xutility": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "conio.h": "c"
+    }
+}

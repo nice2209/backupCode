@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>주문 폼</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        form {
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        fieldset {
+            border: none;
+            margin-bottom: 20px;
+        }
+
+        legend {
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 24px;
+            margin-bottom: 10px;
+        }
+
+        input[type="submit"],
+        input[type="reset"] {
+            width: 48%;
+            padding: 10px;
+            border: none;
+            border-radius: 24px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        input[type="reset"] {
+            background-color: #f44336;
+            color: white;
+        }
+
+        input[type="reset"]:hover {
+            background-color: #d32f2f;
+        }
+
+        small {
+            color: gray;
+        }
+
+        /* 모달 스타일 */
+        #modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        #modal-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        #modal-close {
+            background-color: #f44336;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        #modal-close:hover {
+            background-color: #d32f2f;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="orderForm">
+        <fieldset>
+            <legend>배송 정보</legend>
+            <ul>
+                <li>
+                    <label for="prod">주문 상품</label>
+                    <input type="text" id="prod" value="상품용 3KG" readonly>
+                </li>
+                <li>
+                    <label for="user-name">이름</label>
+                    <input type="text" id="user-name" autofocus required>
+                </li>
+                <li>
+                    <label for="addr">배송 주소</label>
+                    <input type="text" id="addr" required>
+                </li>
+                <li>
+                    <label for="mail">이메일</label>
+                    <input type="email" id="mail">
+                </li>
+                <li>
+                    <label for="phone">연락처</label>
+                    <input type="tel" id="phone" placeholder="하이폰 빼고 입력해 주세요. (01012345678)" required>
+                </li>
+                <li>
+                    <label for="d-day">배송 지정</label>
+                    <input type="date" id="d-day"> <small>(주문일로부터 최소 3일 이후)</small>
+                </li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <legend>이벤트와 새로운 소식</legend>
+            <input type="radio" name="mailing" id="mailing_y" value="mailing_yes">
+            <label for="mailing_y">메일 수신</label>
+            <input type="radio" name="mailing" id="mailing_n" value="mailing_no" checked>
+            <label for="mailing_n">메일 수신 안 함</label>
+        </fieldset>
+        <div>
+            <input type="submit" value="주문하기">
+            <input type="reset" value="취소하기">
+        </div>
+    </form>
+
+    
+    <div id="modal">
+        <div id="modal-content">
+            <h2>주문이 완료되었습니다!</h2>
+            <p>고객님의 주문이 정상적으로 처리되었습니다.</p>
+            <button id="modal-close">확인</button>
+        </div>
+    </div>
+
+    <script>
+        const orderForm = document.getElementById("orderForm");
+        const modal = document.getElementById("modal");
+        const modalCloseButton = document.getElementById("modal-close");
+
+        orderForm.addEventListener("submit", function (event) {
+            event.preventDefault();
+            modal.style.display = "flex";
+            modal.style.justifyContent = "center";
+            modal.style.alignItems = "center";
+        });
+
+        modalCloseButton.addEventListener("click", function () {
+            modal.style.display = "none";
+            orderForm.reset();
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+﻿  decoder.c
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(78,24): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(75,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(89,37): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(87,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(113,31): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\decoder\decoder.c(97,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  decoder.vcxproj -> C:\Users\user\Desktop\bd4072abad6b66b7e2059fc01cdccd2e\decoder\x64\Debug\decoder.exe
